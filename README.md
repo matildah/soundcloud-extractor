@@ -1,4 +1,8 @@
-soundcloud-player
+soundcloud-extractor
 =================
 
-plays sound files uploaded to soundcloud without needing flash installed
+takes in a URL to a soundcloud page and outputs an audio file. This is useful
+if you do not have Flash installed and wish to listen to a sound hosted on 
+soundcloud
+
+
